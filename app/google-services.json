@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599819515660",
+    "firebase_url": "https://kaptureit-802ee.firebaseio.com",
+    "project_id": "kaptureit-802ee",
+    "storage_bucket": "kaptureit-802ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599819515660:android:b56ee847f021bc5f65bb29",
+        "android_client_info": {
+          "package_name": "com.abidjalionel.massguest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599819515660-399grk6b6rjgl7r1cuphi3lvg46sssi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lPsWZVDvqOMzj9LNJ9Efoc2mQJcqVso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599819515660-399grk6b6rjgl7r1cuphi3lvg46sssi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

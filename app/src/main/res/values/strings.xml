@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MassGuest</string>
+    <string name="login">LOG IN</string>
+    <string name="email">Enter an email</string>
+    <string name="signup">New? Sign up</string>
+    <string name="passwordi">Enter a password</string>
+    <string name="reset">Reset</string>
+    <string name="logini">Has an account? Login</string>
+    <string name="title_activity_homepage">homepage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_welcomehome">welcomehome</string>
+    <string name="message">Message Us</string>
+    <string name="call">Call Us</string>
+    <string name="findus">Find Us</string>
+    <string name="emaili">Email Us</string>
+    <string name="logout">Log out</string>
+    <string name="title_activity_userspageactivity">userspageactivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">EVENT MANAGEMENT SYSTEM</string>
+    <string name="nav_header_subtitle">abijurulionel250@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Exit">Exit app</string>
+
+    <string name="Events">Events</string>
+    <string name="Videos">Videos</string>
+    <string name="Notifications">Notifications</string>
+</resources>
